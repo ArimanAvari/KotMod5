@@ -6,13 +6,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.todolist"
+    namespace = "com.example.kotmod5"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.todolist"
+        applicationId = "com.example.kotmod5"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
